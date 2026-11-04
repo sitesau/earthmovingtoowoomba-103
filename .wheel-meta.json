@@ -1,0 +1,22 @@
+{
+  "wheel_id": 749,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-103",
+  "project": "excavation-contractors-toowoomba-timeline-8e81979115debcf5f0e8f",
+  "parent_t1_ref": "earthmovingtoowoomba-151",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "excavation contractors toowoomba timeline",
+  "intended_url": "http://excavation-contractors-toowoomba-timeline-8e81979115debcf5f0e8f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "677dbf6c71f2595d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/excavation-contractors-toowoomba-bca8e4ef69cd83e96ad593de80f054/",
+      "anchor": "excavation contractors toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
